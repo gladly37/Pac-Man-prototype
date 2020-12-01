@@ -82,6 +82,8 @@ public class PacmanMove : MonoBehaviour
         {
             transform.position = new Vector3(posXMin, transform.position.y, transform.position.z);
         }
+
+        //test
     }
 
     public void checkDirection()
